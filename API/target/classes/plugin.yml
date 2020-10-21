@@ -1,0 +1,6 @@
+name: API
+version: BETA
+author: headbnns
+main: br.com.headbnns.api.Main
+commands:
+  group:
